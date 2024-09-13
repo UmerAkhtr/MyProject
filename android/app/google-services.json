@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875905941683",
+    "project_id": "pawbuddy-e9ae9",
+    "storage_bucket": "pawbuddy-e9ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875905941683:android:25dc919cc643e33c1c30c6",
+        "android_client_info": {
+          "package_name": "com.example.pawbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALYyAJkgBX3NdxGJVeeP8M9OQO3hpmPtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
